@@ -1,6 +1,6 @@
 public class Future {
 
   public static void future() {
-    System.out.println("Aquarius");
+    System.out.println("This is Aquarius");
   }
 }
